@@ -19,6 +19,8 @@ Ensure you have the following installed:
 ### **2️⃣ Simply Run in VS Code**
 simply press the run button in vs code
 
+OR
+
 ### **3️⃣ Clone the github repository**
 git clone https://github.com/brgv0815/BasicPortScanner.git
 
