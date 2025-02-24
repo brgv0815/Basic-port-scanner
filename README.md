@@ -16,7 +16,7 @@ This tool allows users to **scan active hosts** in a given IP range and detect *
 Ensure you have the following installed:
 - **Python 3.6+** 👉 [Download Here](https://www.python.org/downloads/)
 - **Nmap** 👉 [Download Here](https://nmap.org/download.html)
-- **Python Nmap Module** (install using pip install python-map)
+- **Python Nmap Module** (install using pip install python-nmap)
 
 ### **2️⃣ Clone This Repository**
 
