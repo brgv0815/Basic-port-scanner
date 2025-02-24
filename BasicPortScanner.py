@@ -21,17 +21,6 @@ def print_banner():
 |         DEVELOPER:          |
 |       Bhargav Mistry        |  
 |_____________________________|
-          
-    
-          
-Copyright (c) 2024 Bhargav Mistry. All Rights Reserved.
-
-This software is the proprietary information of Bhargav Mistry.  
-Unauthorized copying, distribution, or modification of this code,  
-via any medium, is strictly prohibited unless prior written permission  
-is obtained from the author.
-
-For inquiries, contact: brgv1508@gmail.com
           """)
 
 def is_valid_ip_range(ip_range):
